@@ -1,0 +1,11 @@
+.container {
+    background-color: yellow;
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text {
+    font: black;
+    font-size: 12;
+}

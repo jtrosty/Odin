@@ -1,0 +1,27 @@
+/* style.css */
+.alert-text
+.big-alert-text {
+    color: black;
+    background-color: red;
+    font-size: 12px;
+}
+
+.alert-text {
+    font-size: 12px;
+}
+
+.big-alert-text {
+    font-size: 20px;
+}
+
+#title {
+    color: blue;
+    font-size: 32;
+}
+
+#note-good {
+    color: black;
+    background-color: green;
+    font-size: 15;
+    font-weight: bold;
+}

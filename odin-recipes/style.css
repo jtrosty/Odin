@@ -1,0 +1,16 @@
+ * {
+     border: 2px solid red;
+ }
+
+.header,
+.body {
+    font-size: 32px;
+    color: purple;
+    background-color: gold;
+    font-family: cursive;
+}
+
+.body {
+    font-size: 16px;
+    font-family: monospace;
+}
